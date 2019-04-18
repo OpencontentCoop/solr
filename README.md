@@ -1,3 +1,7 @@
+# Solr
+
+![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/Opencontent/solr.svg?style=popout-square)
+
 
 
 ## Local Build & run
